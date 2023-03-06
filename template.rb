@@ -181,6 +181,7 @@ after_bundle do
     .DS_Store
 
     /node_modules
+    coverage
   TXT
 
   # Devise install + user
@@ -340,6 +341,6 @@ after_bundle do
   ########################################
   git :init
   git add: '.'
-  git commit: "-m 'Initial commit with template from https://github.com/Naokimi/lewagon-rails-templates-plus'"
+  git commit: "-m 'initial setup'"
   run 'gh repo create'
 end
