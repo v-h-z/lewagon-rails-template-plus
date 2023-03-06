@@ -12,7 +12,7 @@ rails new \
   -d postgresql \
   -j webpack \
   -T \
-  -m https://raw.githubusercontent.com/naokimi/lewagon-rails-template-plus/master/template.rb \
+  -m https://raw.githubusercontent.com/v-h-z/lewagon-rails-template-plus/master/template.rb \
   CHANGE_THIS_TO_YOUR_RAILS_APP_NAME
 ```
 (the `-j webpack` flag is optional)
