@@ -135,7 +135,7 @@ HTML
 # README
 ########################################
 markdown_file_content = <<~MARKDOWN
-  Rails app generated with [Naokimi/lewagon-rails-templates-plus](https://github.com/Naokimi/lewagon-rails-templates-plus).
+  Type relevant stuff here.
 MARKDOWN
 file 'README.md', markdown_file_content, force: true
 
